@@ -1,2 +1,2 @@
 # analisa_log_akses_SPSE
-coba analisa kesamaan IP dg python
+try to find duplicate of IP addres using google-colab
